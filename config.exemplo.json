@@ -1,0 +1,19 @@
+{
+  "chat": {
+    "host": "0.0.0.0",
+    "porta": 5000
+  },
+  "smtp": {
+    "host": "127.0.0.1",
+    "porta": 2525,
+    "usar_starttls": false,
+    "usuario": "",
+    "senha": "",
+    "remetente": "chat@redes.local"
+  },
+  "usuarios": {
+    "alefe": "alefe@exemplo.com",
+    "antonio": "antonio@exemplo.com",
+    "caio": "caio@exemplo.com"
+  }
+}

@@ -1,0 +1,14 @@
+# dados locais e senhas (nao subir)
+config.json
+caixa_saida/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editores e sistema
+.vscode/
+.DS_Store
+Thumbs.db
